@@ -1,7 +1,6 @@
 ## - 🌱 Buenass soy **Molly Wendy**, **Java Backend Developer** ! 👋 
 
 
-
 ## 👨🏻‍💻Desarrollo, construyo y diseño ecosistemas basados en **Microservicios** y **APIs REST** robustas utilizando el ecosistema de **Spring**. Cuento con una sólida base en Programación Orientada a Objetos, patrones de diseño y gestión de bases de datos relacionales con MySQL. ☁️ ✏️
 
 
@@ -14,18 +13,6 @@
 
 
 <p align="left">  <img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/apachemaven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" /> <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/sonarqube-%23126ED3.svg?style=for-the-badge&logo=sonarqubecloud&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### 💻 Áreas de Expertise & Capacidad Técnica
 
@@ -53,5 +40,6 @@
 ---
 
 ### 📬 ¿Querés ponerte en contacto conmigo?
+<a href="mailto:mollywendyzarateduran@gmail" class="boton-email">Enviar Correo</a>
+
 * Podés escribirme directamente a mi **[email]**
-* Conectemos en **[Tu Enlace a LinkedIn](https://linkedin.com)**
